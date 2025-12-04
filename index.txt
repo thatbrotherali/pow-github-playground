@@ -7,5 +7,7 @@
 <body>
   <h1>People of the World – GitHub Playground</h1>
   <p>Hello world — this is my first GitHub Desktop deployment!</p>
+  <p>This is my second update — testing GitHub Desktop!</p>
+
 </body>
 </html>
